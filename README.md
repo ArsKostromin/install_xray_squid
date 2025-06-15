@@ -28,7 +28,7 @@
 2. **Склонируй репозиторий и запусти скрипт:**
 
    ```bash
-   git clone https://github.com/<твой-гит>/xray-squid-auto.git
+   git clone https://github.com/ArsKostromin/install_xray_squid.git
    cd xray-squid-auto
    chmod +x install_xray_squid.sh
    ./install_xray_squid.sh example.com
